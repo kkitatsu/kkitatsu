@@ -9,18 +9,18 @@
 
 <h2> ⚡ Certifications:</h2>
 
-- [CompTIA PenTest+](https://github.com/kkitatsu/PenTest+)
-- [CompTIA Security+](https://github.com/kkitatsu/PenTest+)
-- [CompTIA Netowrk+](https://github.com/kkitatsu/PenTest+)
-- [CompTIA CySA+](https://github.com/kkitatsu/PenTest+)
-- [CompTIA A+](https://github.com/kkitatsu/PenTest+)
-- [CompTIA Project+](https://github.com/kkitatsu/PenTest+)
+- [CompTIA PenTest+](https://www.credly.com/badges/943953ff-4905-4616-91e2-7163677f4524/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/6404dfb9-4dbf-4656-8176-c085c9fac4c7/public_url)
+- [CompTIA Netowrk+](https://www.credly.com/badges/8ccdd48a-c1b0-429f-a865-691ee425f1ea/public_url)
+- [CompTIA CySA+](https://www.credly.com/badges/b288e23c-03c1-4223-83ef-3273a75d1ac1/public_url)
+- [CompTIA A+](https://www.credly.com/badges/cde420e9-2978-458e-917e-6ba3f0024b98/public_url)
+- [CompTIA Project+](https://www.credly.com/badges/1bc612ed-4059-48f0-8819-6951278fcfbd/public_url)
 - [ITIL 4 Foundation](https://github.com/kkitatsu/PenTest+)
 - [Associate of ISC2](https://github.com/kkitatsu/PenTest+)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KakeruKitatsuru | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/kakeru-kitatsuru-48b660a0/
