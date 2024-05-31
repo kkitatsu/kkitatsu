@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/kkitatsu/AzureSentinel)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/kkitatsu/Sentinel)
   - [Active Directory Home Lab](https://github.com/kkitatsu/activedirectory)
   - [Nessus Vulnerability Management](https://github.com/kkitatsu/nessus)
 
