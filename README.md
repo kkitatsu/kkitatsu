@@ -16,7 +16,7 @@
 - [CompTIA A+](https://www.credly.com/badges/cde420e9-2978-458e-917e-6ba3f0024b98/public_url)
 - [CompTIA Project+](https://www.credly.com/badges/1bc612ed-4059-48f0-8819-6951278fcfbd/public_url)
 - [ITIL 4 Foundation](https://imgur.com/a/vUFFMN9)
-- [Associate of ISC2](https://github.com/kkitatsu/PenTest+)
+- [Associate of ISC2](https://www.credly.com/badges/86ebefe3-b2e8-47f8-9bc3-abcd8b089403/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
